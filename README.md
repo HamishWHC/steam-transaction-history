@@ -1,6 +1,6 @@
 # Steam Transaction History Reader
 
-This is a quick script + module to read transactions from your Steam transaction history that I made to find out how much I had spent on Steam games. Someone please make this into a browser extension (in hindsight, that would've been easier if I wrote this in JS...).
+This is a quick script + module to read transactions from [your Steam transaction history](https://steampowered.com/account/history/) that I made to find out how much I had spent on Steam games. Someone please make this into a browser extension (in hindsight, that would've been easier if I wrote this in JS...).
 
 ```
 $ python3 main.py -h                                 
